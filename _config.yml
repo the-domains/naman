@@ -1,0 +1,28 @@
+name: Naman
+favicon: null
+layout_spectrum: 0.5660575525835156
+typography_spectrum: 0.7055254287552088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.136303607840091
+  lightness: 0.6513762352988124
+  saturation: 0.4706185592804104
+  rhythmicContrast: 0.6668773894198239
+purpose: []
